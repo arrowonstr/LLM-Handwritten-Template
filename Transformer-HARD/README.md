@@ -1,10 +1,10 @@
-# Decoder-Only Transformer 手撕练习模板 (EASY)
+# Decoder-Only Transformer 手撕练习模板 (HARD)
 
 从零实现一个 **Llama 风格**的 Decoder-Only Transformer，单文件跑通：
 - 训练步：forward → loss → backward → optimizer.step()
 - 推理步：BPE 编码 → Prefill → KV Cache Decode Loop → BPE 解码
 
-> **EASY 版**：每个 TODO 下方紧跟正确实现代码，建议先盖住答案自己写，再对照。
+> **HARD 版**：每个 TODO 下方只有简单提示。
 
 ---
 
